@@ -19,7 +19,6 @@
 - 🐧 Daily driving **Kali Linux** and **Ubuntu** for security research
 - 🛠️ Building and experimenting with **C2 frameworks**, wordlist tools, and network recon
 - 📫 Reach me at **guranshg2004@gmail.com**
-- ⚡ Fun fact: I think I'm funny (jury's still out)
 
 ---
 
